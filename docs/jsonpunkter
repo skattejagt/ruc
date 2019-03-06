@@ -1,0 +1,422 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Biblioteket",
+        "bonusinfo": "bib..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.136566638946533,
+          55.65170842795176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Nat-bach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138261795043945,
+          55.65159946576026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.137832641601562,
+          55.65204136610256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "SH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.137081623077393,
+          55.652017152514325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Undervisning 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.137199640274046,
+          55.65249536810948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Sam-bach 0 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.137188911437988,
+          55.65312490884817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Sam-bach 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13664174079895,
+          55.65315517497481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Sam-bach 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.136073112487793,
+          55.6531914942959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Sam-bach 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.135525941848755,
+          55.65315517497481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Sam-bach 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.135504484176636,
+          55.6528282995689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Sam-bach 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.135504484176636,
+          55.65251352808028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Sam-bach 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13790774345398,
+          55.65240456812924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.136609554290771,
+          55.65250142143402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Bygning 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138283252716064,
+          55.6528101397441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Humtek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.137897014617918,
+          55.65303411032783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Bygning 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138980627059937,
+          55.652779873350745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Bygning 9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.139710187911987,
+          55.6527919799109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Bygning 11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.140418291091919,
+          55.65275566021921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Bygning 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.140707969665527,
+          55.65297963111459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Bygning 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.140096426010132,
+          55.653058323287176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Bygning 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1393346786499,
+          55.653064376524675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Bygning 28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138530015945435,
+          55.65247115480202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Bygning 12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.140235900878906,
+          55.65247115480202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Bygning 36/37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1414053440094,
+          55.65254379467953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Kantinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.139323949813843,
+          55.65339124995969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Bygning 3/Servicedisk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.140461206436157,
+          55.65369390811449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Hum-bach1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.141340970993042,
+          55.654644239513566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Hum-bach2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.140665054321289,
+          55.65467450446575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Hum-bach3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.139978408813477,
+          55.65466239848769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Bygning 40-43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.140536308288574,
+          55.654989258581395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": "Store auditorium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.143454551696777,
+          55.654523179470935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Husnavne": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138685584068298,
+          55.65365910254573
+        ]
+      }
+    }
+  ]
+}
