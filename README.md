@@ -1,2 +1,2 @@
 # ruc
-public url https://github.com/skattejagt/ruc/blob/master/docs/ruc.geojson
+public url https://skattejagt.github.io/ruc/
