@@ -400,19 +400,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.143454551696777,
-          55.654523179470935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Husnavne": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.138685584068298,
           55.65365910254573
         ]
